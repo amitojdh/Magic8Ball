@@ -1,0 +1,28 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.input {
+  width: 500px;
+  height: 20px;
+}
+
+html {
+  background-image: url(img/snowy-background.jpg);
+  background-size: cover;
+}
+
+.img {
+  background-color: transparent;
+}
+
+button {
+  background-color: transparent;
+  outline: none;
+}
